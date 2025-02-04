@@ -1,2 +1,2 @@
-# PlantPal_Client_Dart
+# PlantPalClientDart
 Client for plantPal on dart
